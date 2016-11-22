@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "localized-countries": "^1.0.2",
-    "riot": "^2.4.1",
+    "riot": "^3.0.0",
     "simple-text-search": "^1.0.1"
   },
   "devDependencies": {
